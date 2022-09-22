@@ -5,4 +5,4 @@ I am a computer engineering student at <a href="http://web.uniroma2.it/"> Univer
 ---
 ## 📫 How to reach me
 - Email: simoneciferri0112@gmail.com
-- LinkedIn: https://www.linkedin.com/in/simone-ciferri-19b78322b/
+- LinkedIn: https://www.linkedin.com/in/simone-ciferri-19b78322b
