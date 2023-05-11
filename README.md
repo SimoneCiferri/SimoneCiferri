@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Simone Ciferri! 👋
 
-I am a computer engineering student at <a href="http://web.uniroma2.it/"> Università degli studi di Roma Tor Vergata</a>.
+I am a computer science engineering student ~ <a href="http://web.uniroma2.it/"> Università degli studi di Roma Tor Vergata </a>.
 
 ---
 ## 📫 How to reach me
