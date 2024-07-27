@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Simone Ciferri! 👋
 
-- Computer science engineer (L-8) ~ <a href="http://web.uniroma2.it/"> Università degli studi di Roma Tor Vergata </a>.
-- Cybersecurity student (LM-66) ~ <a href="https://corsidilaurea.uniroma1.it/it/corso/2023/29389/home"> Università degli studi di Roma La Sapienza </a>.
+- Computer Science Engineer (L-8) ~ <a href="http://web.uniroma2.it/"> Università degli studi di Roma Tor Vergata </a>.
+- MSc Cybersecurity student (LM-66) ~ <a href="https://corsidilaurea.uniroma1.it/it/corso/2023/29389/home"> Università degli studi di Roma La Sapienza </a>.
 
 ---
 ## 📫 How to reach me
