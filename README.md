@@ -7,4 +7,3 @@
 ## 📫 How to reach me
 - Email: simoneciferri0112@gmail.com
 - LinkedIn: https://www.linkedin.com/in/simone-ciferri-19b78322b
-- Instagram https://www.instagram.com/simone_ciferri/
